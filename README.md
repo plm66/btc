@@ -1,2 +1,2 @@
 # btc
-une hugo opération avec butterais ou autres avec une base MAC
+une hugo opération avec buttercms ou autres netlify avec une base MAC
